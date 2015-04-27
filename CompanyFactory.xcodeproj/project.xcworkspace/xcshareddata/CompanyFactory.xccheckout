@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1679093-789E-4003-8024-A68F24C964D3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CompanyFactory</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>591e555c-0ef2-11e3-a63d-4bbc18ecac2b++5366</key>
+		<string>svn://svn.91aiche.com/apprepositoey/Trunk/CompanyFactory</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CompanyFactory.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>591e555c-0ef2-11e3-a63d-4bbc18ecac2b++5366</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>591e555c-0ef2-11e3-a63d-4bbc18ecac2b++5366</key>
+		<string>svn://svn.91aiche.com/apprepositoey</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://svn.91aiche.com/apprepositoey/Trunk/CompanyFactory/CompanyFactory.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>591e555c-0ef2-11e3-a63d-4bbc18ecac2b++5366</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>591e555c-0ef2-11e3-a63d-4bbc18ecac2b++5366</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CompanyFactory</string>
+		</dict>
+	</array>
+</dict>
+</plist>
